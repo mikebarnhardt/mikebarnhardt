@@ -1,1 +1,1 @@
-![cibo](cibo.png)
+![cibo](cibo.jpg)
